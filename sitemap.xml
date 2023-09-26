@@ -54,6 +54,14 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+  <loc>https://paulkuhz.github.io/Data-Science-Portfolio/teaching/</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url><url>
+  <loc>https://paulkuhz.github.io/Data-Science-Portfolio/publications/</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url><url>
     <loc>https://paulkuhz.github.io/Data-Science-Portfolio/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
