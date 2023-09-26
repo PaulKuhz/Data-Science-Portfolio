@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Paul Schumacher</title>
+    <link>https://paulkuhz.github.io/Data-Science-Portfolio/teaching/</link>
+    <description>Recent content in Teaching on Paul Schumacher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Summer 2023 14:48:04 -0400</lastBuildDate><atom:link href="https://paulkuhz.github.io/Data-Science-Portfolio/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to Python for Economists</title>
+      <link>https://paulkuhz.github.io/Data-Science-Portfolio/teaching/Introduction_to_Python/</link>
+      <pubDate>Summer 2023 14:48:04 -0400</pubDate>
+
+      <guid>https://paulkuhz.github.io/Data-Science-Portfolio/teaching/Introduction_to_Python/</guid>
+      <description>In Summer 2023, I introduced several rotations of incoming UCLA students to Python
+        with a focus on data analysis through a hands-on approach. Of over 120 students from 4 continents,
+        I taught a 26-student cohort remotely in daily two-hour tutorials covering Numerical Programming,
+        Data Manipulation, Plotting/Visualization, and Data Analysis. My supervisor for this program was
+        Dr. Randall R. Rojas.</description>
+    </item>
+
+    <item>
+      <title>Winter Quarter 2023</title>
+      <link>https://paulkuhz.github.io/Data-Science-Portfolio/teaching/Data_Science_for_Financial_Time_Series/</link>
+      <pubDate>Winter Quarter 2023 11:15:58 -0400</pubDate>
+
+      <guid>https://paulkuhz.github.io/Data-Science-Portfolio/teaching/Data_Science_for_Financial_Time_Series/</guid>
+      <description>TThis course is part of the Master's degree program in Quantitative Economics at UCLA. As a former
+        student of this class during my second year, I conducted weekly one-hour tutorials for first-year students.
+        The course integrates financial concepts, such as portfolio theory, with statistical concepts, such as advanced
+        probability and Time Series Analysis. The course and the lectures were instructed by Prof. Zhipeng Liao.</description>
+    </item>
+
+  </channel>
+</rss>
