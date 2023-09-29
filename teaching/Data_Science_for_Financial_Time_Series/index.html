@@ -250,17 +250,54 @@ were instructed by Prof. Zhipeng Liao."/>
     course integrates financial concepts, such as portfolio theory, with statistical concepts,
     such as advanced probability and Time Series Analysis. The course and the lectures
     were instructed by <a href="https://economics.ucla.edu/person/zhipeng-liao/">Prof. Zhipeng Liao</a>.</p>
-    
-<figure><img src="https://paulkuhz.github.io/Data-Science-Portfolio/images/kaleidico-3V8xo5Gbusk-unsplash.jpg"/>
-</figure>
 
-<h3 id="data-scraping">Data Scraping</h3>
-<p>After downloading the HTML from the FBRef website about the German Bundesliga, I extracted the URLs for each squad page using Google Chrome Inspector and BeautifulSoup. I then put them into a Pandas DataFrame. To obtain more detailed match statistics such as shots, shots on target, and possession, I merged the original dataset with another DataFrame created using the same method as the original one.</p>
-<p>Next, I implemented a for loop to collect data for previous seasons. Finally, I created a CSV file containing all the scraped data.</p>
-<h3 id="match-prediction">Match Prediction</h3>
-<p>After cleaning the data and converting the strings into categories/numbers, I split the dataset into a training set and a test set. The former consists of all matches before January 1, while the latter consists of all matches after that day.</p>
-<p>Applying the RandomForestClassifier, I chose to use 50 decision trees with 10 samples in a leaf before splitting the node. For predictors, I selected the venue, opponent, hour, and weekday. The initial model achieved an accuracy of 58%.</p>
-<p>To improve the model&rsquo;s accuracy, I included a function for rolling averages to account for a team&rsquo;s performance over the last few matchdays. Including these new predictions slightly increased the model&rsquo;s accuracy to 62%.&quot;</p>
+    <p>The name of the tutorial and the covered topics are listed below:<p>
+    <h3 id="intro-Session">1. Intro Session</h3>
+    <p>In the first session of the series, I showed the students how to download and use Anaconda
+      and Jupyter Notebook. I also introduced them to YouTubers focusing on Data Science.</p>
+    <a href="https://paulkuhz.github.io/Data-Science-Portfolio/docs/Day1_718.pdf">Download Session 1</a><p>
+
+    <h3 id="Data-Types,-Flow-Control-Loops,-Lists-Dictionaries">2. Data Types, Flow Control & Loops, Lists & Dictionaries</h3>
+    <p>After successfully setting up the coding environment, we started with data types, operators, and ways to store collections of data.</p>
+    <p><a href="https://paulkuhz.github.io/Data-Science-Portfolio/docs/Day2_719.pdf">Download Session 3</a><p>
+
+    <h3 id="Lists-Dictionaries,-Functions">3. Lists & Dictionaries, Functions</h3>
+    <p>In the third tutorial I covered built-in data types (Lists, Sets, Dictionaries, and Tuples) in Python and created first simple functions.</p>
+    <p><a href="https://paulkuhz.github.io/Data-Science-Portfolio/docs/Day3_720.pdf">Download Session 3</a><p>
+
+    <h3 id="Classes-File-Operations-Modules-Methods">4. Classes, File Operations, Modules & Methods</h3>
+    <p>During this session, we delved into the topic of classes before introducing the Wooldridge datasets to familiarize the students with their first datasets.</p>
+    <p><a href="https://paulkuhz.github.io/Data-Science-Portfolio/docs/Day4_721.pdf">Download Session 4</a><p>
+
+    <h3 id="EDA/-File-Operations,-Exception-and-Error-Handling">5. EDA/ File Operations, Exception and Error Handling</h3>
+    <p>In this session, the students performed their first exploratory data analysis and were introduced to exception and error handling.<p>
+    <p><a href="https://paulkuhz.github.io/Data-Science-Portfolio/docs/Day5_725.pdf">Download Session 5</a><p>
+
+    <h3 id="NumPy-I">6. NumPy I</h3>
+    <p>"In this in-depth tutorial, I elaborated on the benefits of using NumPy and delved into concepts like multidimensional arrays, fundamental mathematical operations, and statistical calculations.</p>
+    <p><a href="https://paulkuhz.github.io/Data-Science-Portfolio/docs/Day6_726.pdf">Download Session 6</a><p>
+
+    <h3 id="Numpy-II">7. NumPy II</h3>
+    <p>In a subsequent session, I expanded on the topics of reorganizing arrays, linear algebra, and accessing/changing elements, rows, and columns.</p>
+    <p><a href="https://paulkuhz.github.io/Data-Science-Portfolio/docs/Day7_727.pdf">Download Session 7</a><p>
+
+    <h3 id="Pandas">8. Pandas</h3>
+    <p> Using Pandas I instructed the students on performing fundamental data manipulation tasks, which encompassed filter functions, conditional changes, and aggregate statistics.</p>
+    <p><a href="https://paulkuhz.github.io/Data-Science-Portfolio/docs/Day8_731.pdf">Download Session 8</a><p>
+
+    <h3 id="Visualization">9. Visualizations</h3>
+    <p>In this tutorial the students created their first graphs (line graphs, bar Charts, histograms, pie charts) with Matplotlib.</p>
+    <p><a href="https://paulkuhz.github.io/Data-Science-Portfolio/docs/Day9_801.pdf">Download Session 9</a><p>
+
+    <h3 id="Series-Data-Frames-and-Probability-Statistics">10. Series & Data Frames and Probability & Statistics I</h3>
+    <p>Exploring SciPy the students were introduced to distribution types, signal procession, and interpolation.</p>
+    <p><a href="https://paulkuhz.github.io/Data-Science-Portfolio/docs/Day10_802.pdf">Download Session 10</a><p>
+
+    <h3 id="Probability-Statistics-II">11. Probability & Statistics II</h3>
+    <p>We concluded the program with discussing topics such as the Law of Large Numbers, Monte Carlo Simulation, the Central Limit Theorem, and confidence intervals.<p>
+    <p><a href="https://paulkuhz.github.io/Data-Science-Portfolio/docs/Day11_803.pdf">Download Session 11</a><p>
+
+
 <p></p>
 <ul class="pa0">
 
