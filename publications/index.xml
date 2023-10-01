@@ -40,6 +40,7 @@ The project aimed to assess the impact of the rise in imported goods from the Pe
 The underlying theory, supported by empirical research, suggests that as the unemployment rate increases, college enrollment rates also tend to rise (Long, 2004b).</description>
     </item>
 
+<!--
     <item>
       <title>Image and Video Generation using Stable Diffusion</title>
       <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/stablediffusion/</link>
@@ -67,7 +68,7 @@ The basic idea of picture creation is simple: you first give a model some noise,
       <guid>https://paulkuhz.github.io/Data-Science-Portfolio/post/nlp/</guid>
       <description>This project highlights my involvement in the &amp;ldquo;Twitch Twits&amp;rdquo; program for the Data Science Union student association at UCLA. The dataset was meticulously collected from the Twitch API. By utilizing the &amp;ldquo;rTwitchAPI&amp;rdquo; package in the R programming language, I conducted web scraping to gather data pertaining to one of the most frequently featured games on the Twitch streaming platform: Alien Isolation.
 The dataset comprised 871 distinct streaming titles. Initially, I partitioned the data into separate train and test sets.</description>
-    </item>
+    </item>-->
 
   </channel>
 </rss>
