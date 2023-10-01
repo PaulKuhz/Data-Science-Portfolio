@@ -1,25 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Paul Schumacher</title>
-    <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/</link>
-    <description>Recent content in Projects on Paul Schumacher</description>
+    <title>Publications | Paul Schumacher</title>
+    <link>https://paulkuhz.github.io/Data-Science-Portfolio/publications/</link>
+    <description>Publications on Paul Schumacher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Sep 2023 14:48:04 -0400</lastBuildDate><atom:link href="https://paulkuhz.github.io/Data-Science-Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>21 Jan 2020 14:48:04 -0400</lastBuildDate><atom:link href="https://paulkuhz.github.io/Data-Science-Portfolio/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>HTML, CSS, JavaScript: Developing a Real Time Clock, a Random Password Generator, and a To-Do List</title>
-      <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/Clock+PasswordGenerator+ToDoList/</link>
-      <pubDate>Mon, 18 Sep 2023 14:48:04 -0400</pubDate>
+      <title>The impact of COVID-19 on the transfer activities of football clubs in the five major European leagues in the summer of 2020</title>
+      <link>https://paulkuhz.github.io/Data-Science-Portfolio/publications/transfermarkt/</link>
+      <pubDate>21 Jan 2020 14:48:04 -0400</pubDate>
 
-      <guid>https://paulkuhz.github.io/Data-Science-Portfolio/post/Clock+PasswordGenerator+ToDoList/</guid>
-      <description>I developed these three applications to strengthen my skillset in web design
-      using HyperText Markup Language (HTML), Cascading Style Sheets (CSS), and
-      JavaScript (JS). The clock displays the current Pacific Standard Time, while the
-      random password generator and the to-do list are integrated into the portfolio
-      using <i>CodePen</i>. I'm excited to showcase these projects as they represent my
-      commitment to creating practical and engaging web applications. Feel free to
-      explore and interact with them!</description>
+      <guid>https://paulkuhz.github.io/Data-Science-Portfolio/publications/transfermarkt/</guid>
+      <description>In collaboration with one of Germany's most renowned sports economists,
+      Professor Dr. Bernd Frick, this study employs various regression models
+      to examine the effects of the COVID-19 pandemic on the transfer activities
+      of football clubs in the English Premier League, Spanish Primera División,
+      German Bundesliga, Italian Serie A, and French Ligue 1 during the summer of 2020.</description>
     </item>
 
     <item>
