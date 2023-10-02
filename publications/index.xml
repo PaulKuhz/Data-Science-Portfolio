@@ -10,7 +10,7 @@
     <item>
       <title>The impact of COVID-19 on the transfer activities of football clubs in the five major European leagues in the summer of 2020</title>
       <link>https://paulkuhz.github.io/Data-Science-Portfolio/publications/transfermarkt/</link>
-      <pubDate>21 Jan 2020 14:48:04 -0400</pubDate>
+      <pubDate>December 2020 14:48:04 -0400</pubDate>
 
       <guid>https://paulkuhz.github.io/Data-Science-Portfolio/publications/transfermarkt/</guid>
       <description>In collaboration with one of Germany's most renowned sports economists,
@@ -21,23 +21,32 @@
     </item>
 
     <item>
-      <title>Two-Stage Least-Squares regression with Composition Adjustment: The China Shock and Regional Gender Pay Gaps in the United States</title>
-      <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/capstone/</link>
-      <pubDate>Mon, 19 Jun 2023 11:15:58 -0400</pubDate>
+      <title>COVID-19 Impact on the Bremen Port Location: Acceleration of Restructuring?</title>
+      <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/bremen/</link>
+      <pubDate>November 2023 11:15:58 -0400</pubDate>
 
-      <guid>https://paulkuhz.github.io/Data-Science-Portfolio/post/capstone/</guid>
-      <description>This project served as my final thesis and capstone project for the Master of Quantitative Economics program at UCLA, submitted during the spring quarter of 2023. The project was under the supervision of Professor Jonathan Vogel. If you&amp;rsquo;re interested in reading the entire paper, you can download my thesis here.
-The project aimed to assess the impact of the rise in imported goods from the People&amp;rsquo;s Republic of China on the United States of America with a focus on their inherent gender pay gap.</description>
+      <guid>https://paulkuhz.github.io/Data-Science-Portfolio/post/bremen/</guid>
+      <description>The article discusses the impact of the COVID-19 pandemic on the port
+        location in Bremen. As a result of the crisis, the port has been significantly
+        affected by a decline in trade due to supply and subsequent demand shocks. The
+        COVID-19 crisis acts as a magnifying glass on structural changes and shifts or
+        alterations in value chains, potentially accelerating the transformation of the
+        port economy.</description>
     </item>
 
     <item>
-      <title>Data Visualisation: The Change in Value of the Associate’s Degree after the 2007/2008 Financial Crisis</title>
-      <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/associates-degree/</link>
-      <pubDate>Fri, 02 Jun 2023 11:25:05 -0400</pubDate>
+      <title>Combined transport in Europe: Scenario-based projections of emission saving potentials</title>
+      <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/combined/</link>
+      <pubDate>April 2023 11:25:05 -0400</pubDate>
 
-      <guid>https://paulkuhz.github.io/Data-Science-Portfolio/post/associates-degree/</guid>
-      <description>This group project was conducted for the course on Income Inequality instructed by Professor Jonathan Vogel in the Master of Quantitative Economics program at UCLA. The corresponding presentation slide deck can be downloaded. We explored the question of how the share of people owning an Associate’s Degree and the wage differences compared to other degrees evolved after the Great Financial Crisis (GFC) of 2007/2008.
-The underlying theory, supported by empirical research, suggests that as the unemployment rate increases, college enrollment rates also tend to rise (Long, 2004b).</description>
+      <guid>https://paulkuhz.github.io/Data-Science-Portfolio/post/combined/</guid>
+      <description>The paper explores combined transportation methods in Europe and their
+        impact on regional trade's environmental costs. It suggests that while
+        infrastructure improvements can help, the emissions reduction effect is
+        relatively small compared to the overall transport sector emissions. To
+        make a substantial impact on emissions, it recommends reducing emissions
+        from specific transportation modes. The paper concludes by discussing the
+        future of combined transportation.</description>
     </item>
 
 <!--
