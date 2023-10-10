@@ -6,7 +6,19 @@
     <description>Recent content in Projects on Paul Schumacher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Sep 2023 14:48:04 -0400</lastBuildDate><atom:link href="https://paulkuhz.github.io/Data-Science-Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 9 Oct 2023 14:48:04 -0400</lastBuildDate><atom:link href="https://paulkuhz.github.io/Data-Science-Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google's Lightweight Marketing Mix Modeling (MMM): Bike Store Advertisement Revenue Analysis</title>
+      <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/MMM/</link>
+      <pubDate>Mon, 9 Oct 2023 14:48:04 -0400</pubDate>
+
+      <guid>https://paulkuhz.github.io/Data-Science-Portfolio/post/MMM/</guid>
+      <description>In this project, I undertook a comprehensive analysis of a bicycle store's Return on
+        Investment (ROI) across a range of advertising strategies. Spanning five years, the store employed
+        a deliberate approach by leveraging seven distinct marketing channels, which included both branded
+        and non-branded search, Facebook, print, out-of-home advertising (OOH), television (TV), and radio.</description>
+    </item>
+
     <item>
       <title>HTML, CSS, JavaScript: Developing a Real Time Clock, a Random Password Generator, and a To-Do List</title>
       <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/Clock+PasswordGenerator+ToDoList/</link>
