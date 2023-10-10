@@ -1,37 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Paul Schumacher</title>
-    <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/</link>
-    <description>Recent content in Projects on Paul Schumacher</description>
+    <title>Data Science Portfolio on Paul Schumacher</title>
+    <link>https://paulkuhz.github.io/Data-Science-Portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Paul Schumacher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 9 Oct 2023 14:48:04 -0400</lastBuildDate><atom:link href="https://paulkuhz.github.io/Data-Science-Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 9 Oct 2023 11:14:48 -0400</lastBuildDate><atom:link href="https://paulkuhz.github.io/Data-Science-Portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Google's Lightweight Marketing Mix Modeling (MMM): Bike Store Advertisement Revenue Analysis</title>
+      <title>HTML, CSS, JavaScript: Developing a Real Time Clock, a Random Password Generator, and a To-Do List</title>
       <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/MMM/</link>
-      <pubDate>Mon, 9 Oct 2023 14:48:04 -0400</pubDate>
+      <pubDate>Mon, 9 Oct 2023 11:14:48 -0400</pubDate>
 
       <guid>https://paulkuhz.github.io/Data-Science-Portfolio/post/MMM/</guid>
-      <description>In this project, I undertook a comprehensive analysis of a bicycle store's Return on
-        Investment (ROI) across a range of advertising strategies. Spanning five years, the store employed
-        a deliberate approach by leveraging seven distinct marketing channels, which included both branded
-        and non-branded search, Facebook, print, out-of-home advertising (OOH), television (TV), and radio.</description>
+      <description>In this project, I undertook a comprehensive analysis of a bicycle
+        store's Return on Investment (ROI) across a range of advertising strategies.
+        Spanning five years, the store employed a deliberate approach by leveraging
+        seven distinct marketing channels, which included both branded and non-branded
+        search, Facebook, print, out-of-home advertising (OOH), television (TV),
+        and radio.</description>
     </item>
 
     <item>
       <title>HTML, CSS, JavaScript: Developing a Real Time Clock, a Random Password Generator, and a To-Do List</title>
       <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/Clock+PasswordGenerator+ToDoList/</link>
-      <pubDate>Mon, 18 Sep 2023 14:48:04 -0400</pubDate>
+      <pubDate>Mon, 18 Sep 2023 11:14:48 -0400</pubDate>
 
       <guid>https://paulkuhz.github.io/Data-Science-Portfolio/post/Clock+PasswordGenerator+ToDoList/</guid>
       <description>I developed these three applications to strengthen my skillset in web design
-      using HyperText Markup Language (HTML), Cascading Style Sheets (CSS), and
-      JavaScript (JS). The clock displays the current Pacific Standard Time, while the
-      random password generator and the to-do list are integrated into the portfolio
-      using <i>CodePen</i>. I'm excited to showcase these projects as they represent my
-      commitment to creating practical and engaging web applications. Feel free to
-      explore and interact with them!</description>
+using HyperText Markup Language (HTML), Cascading Style Sheets (CSS), and
+JavaScript (JS). The clock displays the current Pacific Standard Time, while the
+random password generator and the to-do list are integrated into the portfolio
+using <i>CodePen</i>. I'm excited to showcase these projects as they represent my
+commitment to creating practical and engaging web applications. Feel free to
+explore and interact with them!</description>
     </item>
 
     <item>
@@ -82,6 +84,45 @@ The basic idea of picture creation is simple: you first give a model some noise,
       <description>This project highlights my involvement in the &amp;ldquo;Twitch Twits&amp;rdquo; program for the Data Science Union student association at UCLA. The dataset was meticulously collected from the Twitch API. By utilizing the &amp;ldquo;rTwitchAPI&amp;rdquo; package in the R programming language, I conducted web scraping to gather data pertaining to one of the most frequently featured games on the Twitch streaming platform: Alien Isolation.
 The dataset comprised 871 distinct streaming titles. Initially, I partitioned the data into separate train and test sets.</description>
     </item>
+
+    <item>
+      <title>Contact</title>
+      <link>https://paulkuhz.github.io/Data-Science-Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+
+      <guid>https://paulkuhz.github.io/Data-Science-Portfolio/contact/</guid>
+      <description>You can directly message me via the form below. Feel free to reach out if you want to share a project idea, a new method, or an open position. Or if you simply want to say hi. Full Name Your Email Address Your message Send If you would like to follow me on social media, here are links to my profiles. Platform URL LinkedIn https://www.linkedin.com/in/paul-schumacher-ucla/ Twitter https://twitter.com/PaulmachtSchuhe Github hhttps://github.com/PaulKuhz Medium https://medium.</description>
+    </item>
+
+    <item>
+      <title>Resume/CV</title>
+      <link>https://paulkuhz.github.io/Data-Science-Portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+
+      <guid>https://paulkuhz.github.io/Data-Science-Portfolio/about/</guid>
+      <description>I love Data since it enables me to produce objective answers to subjective questions. My fascination for this tool guided me on my journey from quitting medical school in Germany to graduating from one of the best data science programs in the world.
+Along this challenging but exciting path, I first developed a qualitative understanding of the world&amp;rsquo;s issues by studying politics and economics as an undergrad and working as a journalist.</description>
+    </item>
+
+    <item>
+      <title>Contact</title>
+      <link>https://paulkuhz.github.io/Data-Science-Portfolio/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+
+      <guid>https://paulkuhz.github.io/Data-Science-Portfolio/teaching/</guid>
+      <description>You can directly message me via the form below. Feel free to reach out if you want to share a project idea, a new method, or an open position. Or if you simply want to say hi. Full Name Your Email Address Your message Send If you would like to follow me on social media, here are links to my profiles. Platform URL LinkedIn https://www.linkedin.com/in/paul-schumacher-ucla/ Twitter https://twitter.com/PaulmachtSchuhe Github hhttps://github.com/PaulKuhz Medium https://medium.</description>
+    </item>
+
+    <item>
+      <title>Resume/CV</title>
+      <link>https://paulkuhz.github.io/Data-Science-Portfolio/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+
+      <guid>https://paulkuhz.github.io/Data-Science-Portfolio/publications/</guid>
+      <description>I love Data since it enables me to produce objective answers to subjective questions. My fascination for this tool guided me on my journey from quitting medical school in Germany to graduating from one of the best data science programs in the world.
+    Along this challenging but exciting path, I first developed a qualitative understanding of the world&amp;rsquo;s issues by studying politics and economics as an undergrad and working as a journalist.</description>
+    </item>
+
 
   </channel>
 </rss>
