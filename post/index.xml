@@ -6,7 +6,23 @@
     <description>Recent content in Projects on Paul Schumacher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Oct 2023 14:48:04 -0400</lastBuildDate><atom:link href="https://paulkuhz.github.io/Data-Science-Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 2 Nov 2023 14:48:04 -0400</lastBuildDate><atom:link href="https://paulkuhz.github.io/Data-Science-Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>ARIMA, Prophet, XGBoost: Retail Store Sales Forecast</title>
+      <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/Rossmann/</link>
+      <pubDate>Thu, 2 Nov 2023 11:13:32 -0400</pubDate>
+
+      <guid>https://paulkuhz.github.io/Data-Science-Portfolio/post/nlp/</guid>
+      <description>In this comprehensive analysis, I delve into the intricate
+        world of sales forecasting for Rossmann, a retail giant operating across
+        seven European countries. Understanding and predicting the company's
+        daily sales is a pivotal challenge, as it involves a myriad of factors,
+        including promotions, competition, holidays, seasonality, and local trends.
+        The Predictive Modeling covers ARIMA, Meta's Prophet, and the open-source
+        software library XGBoost.</description>
+    </item>
+
 
     <item>
       <title>Dashboard Visualization with SQL & Tableau: Regional Flu Vaccinations, Emergency Room Visits, and COVID-19 Distribution</title>
