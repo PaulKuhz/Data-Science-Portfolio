@@ -6,14 +6,71 @@
     <description>Recent content in Projects on Paul Schumacher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 2 Nov 2023 14:48:04 -0400</lastBuildDate><atom:link href="https://paulkuhz.github.io/Data-Science-Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 4 Nov 2023 14:48:04 -0400</lastBuildDate><atom:link href="https://paulkuhz.github.io/Data-Science-Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>Marketing Mix Modeling (MMM): FY2024 Analysis of an S&P 500 Fashion Company</title>
+      <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/MMMEKIRALF/</link>
+      <pubDate>Sat, 4 Nov 2023 11:13:32 -0400</pubDate>
+
+      <guid>https://paulkuhz.github.io/Data-Science-Portfolio/post/MMMEKIRALF/</guid>
+      <description>As a data science intern at Ekimetrics, I collaborated with three analysts from the company's London 
+      office to conduct an in-depth analysis of the performance of a leading S&P 500 company in the UK fashion 
+      industry. Our analysis focused on evaluating both short-term and long-term media return on investment, 
+      assessing the brand halo impact of luxury campaigns across various channels, and measuring the media 
+      memory impact on current transactions. We also reported the contributions of different media channels 
+      by campaign type, such as lifestyle and commerce, and evaluated the impact of events, sponsorships, and 
+      celebrity endorsements on both short-term and long-term business performance.</description>
+    </item>
+
+    <item>
+      <title>Marketing Mix Modeling (MMM): Q3 2023 Analysis of a S&P 500 Health Care Company</title>
+      <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/MMMEKIABB/</link>
+      <pubDate>Sat, 4 Nov 2023 11:13:32 -0400</pubDate>
+
+      <guid>https://paulkuhz.github.io/Data-Science-Portfolio/post/MMMEKIABB/</guid>
+      <description>As a data science intern at Ekimetrics, I, along with four other analysts, conducted an in-depth 
+      analysis of the performance of a leading S&P 500 company in the electrolyte drinks market in the US. 
+      This study covered a three-year period up to September 30, 2023. Our comprehensive analysis focused 
+      on comparing the latest 52-week period with the same period in 2022, offering valuable insights into 
+      market dynamics and strategic outcomes.</description>
+    </item>
+
+    <item>
+      <title>Marketing Mix Modeling (MMM) and Match Market Testing (MMT): FY2024 Analysis for a S&P 500 Cosmetique Company</title>
+      <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/MMMEKICOS/</link>
+      <pubDate>Sat, 4 Nov 2023 11:13:32 -0400</pubDate>
+
+      <guid>https://paulkuhz.github.io/Data-Science-Portfolio/post/MMMEKICOS/</guid>
+      <description>This project marked my debut as a data science intern at Ekimetrics in New York. Our team of 
+    three analysts meticulously examined the entire US operations of an S&P 500 cosmetics company. 
+    We focused on the period from January 2023 to December 2023, analyzing data across three key 
+    channels: Brand.com, Retailer.com, and Brick & Mortar (B&M). Throughout the project, we 
+    processed a substantial 10.5 gigabytes of data.</description>
+    </item>
+
+    <item>
+      <title>Marketing Mix Modeling (MMM): Comparing Bayesian Modeling using PyMC3 vs. Random Forest Modeling with SHAP Evaluation</title>
+      <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/AdvancedMMM/</link>
+      <pubDate>Sat, 4 Nov 2023 11:13:32 -0400</pubDate>
+
+      <guid>https://paulkuhz.github.io/Data-Science-Portfolio/post/AdvancedMMM/</guid>
+      <description>In this article, I explore two different advanced Marketing Mix
+        Modeling (MMM) approaches and compare the results obtained from the Bayesian
+        approach with those from the Random Forest approach. The Random Forest
+        approach, which captures non-linear relationships and interactions more
+        effectively, outperforms the Bayesian approach, showing significant
+        improvements in performance metrics, with a 40% reduction in MAPE and
+        a 17% decrease in NRMSE.</description>
+    </item>
+
 
     <item>
       <title>ARIMA, Prophet, XGBoost: Retail Store Sales Forecast</title>
       <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/Rossmann/</link>
       <pubDate>Thu, 2 Nov 2023 11:13:32 -0400</pubDate>
 
-      <guid>https://paulkuhz.github.io/Data-Science-Portfolio/post/nlp/</guid>
+      <guid>https://paulkuhz.github.io/Data-Science-Portfolio/post/Rossmann/</guid>
       <description>In this comprehensive analysis, I delve into the intricate
         world of sales forecasting for Rossmann, a retail giant operating across
         seven European countries. Understanding and predicting the company's
@@ -29,7 +86,7 @@
       <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/healthcare/</link>
       <pubDate>Sat, 21 Oct 2023 11:13:32 -0400</pubDate>
 
-      <guid>https://paulkuhz.github.io/Data-Science-Portfolio/post/nlp/</guid>
+      <guid>https://paulkuhz.github.io/Data-Science-Portfolio/post/healthcare/</guid>
       <description>For these projects, I managed 39.7 MB of healthcare data in SQL
         and visualized the results in three Tableau dashboards. In the first dashboard,
         I presented the annual flu vaccination rates in counties in Massachusetts
