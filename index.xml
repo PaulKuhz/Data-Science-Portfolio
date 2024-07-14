@@ -7,6 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 23 Jun 2024 11:14:48 -0400</lastBuildDate><atom:link href="https://paulkuhz.github.io/Data-Science-Portfolio/index.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>CountVectorizer, LightFM, and RelationalAI’s Snowflake Native App: Recommender systems applying WARP and Cosine Similarity</title>
+      <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/Netflix/</link>
+      <pubDate>Sun, July 14, 2024 11:14:48 -0400</pubDate>
+
+      <guid>https://paulkuhz.github.io/Data-Science-Portfolio/post/Netflix/</guid>
+      <description>For a private project, I researched the state-of-the-art recommender systems (RecSys). These algorithms are 
+        designed to suggest items to users based on factors such as similarity between users (User-based Collaborative 
+        Filtering), similarity between items (Item-based Collaborative Filtering), the content of items, and user preferences 
+        (Content-Based Filtering), or a combination of these methods (Hybrid Methods). In this article, I explore 
+        CountVectorization, the LightFM library, and the RelationalAI’s Snowflake Native App. I apply Weighted Approximate-Rank 
+        Pairwise (WARP) loss function and Cosine Similarity to address real-world challenges and provide their solutions.</description>
+    </item>
+
     <item>
       <title>Marketing Mix Modeling (MMM): FY2024 Analysis of an S&P 500 Fashion Company</title>
       <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/MMMEKIRALF/</link>
