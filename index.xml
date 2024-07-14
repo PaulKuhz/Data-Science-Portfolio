@@ -1,98 +1,140 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Science Portfolio on Paul Schumacher</title>
-    <link>https://paulkuhz.github.io/Data-Science-Portfolio/</link>
-    <description>Recent content in Data Science Portfolio on Paul Schumacher</description>
+    <title>Projects on Paul Schumacher</title>
+    <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/</link>
+    <description>Recent content in Projects on Paul Schumacher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Jun 2024 11:14:48 -0400</lastBuildDate><atom:link href="https://paulkuhz.github.io/Data-Science-Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 4 Nov 2023 14:48:04 -0400</lastBuildDate><atom:link href="https://paulkuhz.github.io/Data-Science-Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
 
     <item>
       <title>CountVectorizer, LightFM, and RelationalAI’s Snowflake Native App: Recommender systems applying WARP and Cosine Similarity</title>
       <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/Netflix/</link>
-      <pubDate>Sun, July 14, 2024 11:14:48 -0400</pubDate>
+      <pubDate>Sat, 14 July 2024 11:13:32 -0400</pubDate>
 
       <guid>https://paulkuhz.github.io/Data-Science-Portfolio/post/Netflix/</guid>
-      <description>For a private project, I researched the state-of-the-art recommender systems (RecSys). These algorithms are 
-        designed to suggest items to users based on factors such as similarity between users (User-based Collaborative 
-        Filtering), similarity between items (Item-based Collaborative Filtering), the content of items, and user preferences 
-        (Content-Based Filtering), or a combination of these methods (Hybrid Methods). In this article, I explore 
-        CountVectorization, the LightFM library, and the RelationalAI’s Snowflake Native App. I apply Weighted Approximate-Rank 
-        Pairwise (WARP) loss function and Cosine Similarity to address real-world challenges and provide their solutions.</description>
+      <description>For a private project, I researched the state-of-the-art recommender systems (RecSys). These algorithms are designed to 
+      suggest items to users based on factors such as similarity between users (User-based Collaborative Filtering), similarity between items 
+      (Item-based Collaborative Filtering), the content of items, and user preferences (Content-Based Filtering), or a combination of these 
+      methods (Hybrid Methods). In this article, I explore CountVectorization, the LightFM library, and the RelationalAI’s Snowflake Native 
+      App. I apply Weighted Approximate-Rank Pairwise (WARP) loss function and Cosine Similarity to address real-world challenges and provide 
+      their solutions.</description>
     </item>
+
 
     <item>
       <title>Marketing Mix Modeling (MMM): FY2024 Analysis of an S&P 500 Fashion Company</title>
       <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/MMMEKIRALF/</link>
-      <pubDate>Sun, 23 Jun 2024 11:14:48 -0400</pubDate>
+      <pubDate>Sat, 4 Nov 2023 11:13:32 -0400</pubDate>
 
       <guid>https://paulkuhz.github.io/Data-Science-Portfolio/post/MMMEKIRALF/</guid>
       <description>As a data science intern at Ekimetrics, I collaborated with three analysts from the company's London 
-        office to conduct an in-depth analysis of the performance of a leading S&P 500 company in the UK fashion 
-        industry. Our analysis focused on evaluating both short-term and long-term media return on investment, 
-        assessing the brand halo impact of luxury campaigns across various channels, and measuring the media 
-        memory impact on current transactions. We also reported the contributions of different media channels 
-        by campaign type, such as lifestyle and commerce, and evaluated the impact of events, sponsorships, and c
-        elebrity endorsements on both short-term and long-term business performance. It is important to note 
-        that, due to data privacy concerns, all figures in the analysis have been slightly modified.</description>
+      office to conduct an in-depth analysis of the performance of a leading S&P 500 company in the UK fashion 
+      industry. Our analysis focused on evaluating both short-term and long-term media return on investment, 
+      assessing the brand halo impact of luxury campaigns across various channels, and measuring the media 
+      memory impact on current transactions. We also reported the contributions of different media channels 
+      by campaign type, such as lifestyle and commerce, and evaluated the impact of events, sponsorships, and 
+      celebrity endorsements on both short-term and long-term business performance.</description>
     </item>
 
     <item>
       <title>Marketing Mix Modeling (MMM): Q3 2023 Analysis of a S&P 500 Health Care Company</title>
       <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/MMMEKIABB/</link>
-      <pubDate>Fri, 17 May 2023 11:14:48 -0400</pubDate>
+      <pubDate>Sat, 4 Nov 2023 11:13:32 -0400</pubDate>
 
       <guid>https://paulkuhz.github.io/Data-Science-Portfolio/post/MMMEKIABB/</guid>
       <description>As a data science intern at Ekimetrics, I, along with four other analysts, conducted an in-depth 
-        analysis of the performance of a leading S&P 500 company in the electrolyte drinks market in the US. 
-        This study covered a three-year period up to September 30, 2023. Our comprehensive analysis focused 
-        on comparing the latest 52-week period with the same period in 2022, offering valuable insights into 
-        market dynamics and strategic outcomes. Due to data privacy concerns, all numbers presented in this 
-        analysis have been slightly modified.</description>
-      </item>
-
-    <item>
-      <title>HTML, CSS, JavaScript: Developing a Real Time Clock, a Random Password Generator, and a To-Do List</title>
-      <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/MMM/</link>
-      <pubDate>Mon, 9 Oct 2023 11:14:48 -0400</pubDate>
-
-      <guid>https://paulkuhz.github.io/Data-Science-Portfolio/post/MMM/</guid>
-      <description>In this project, I undertook a comprehensive analysis of a bicycle
-        store's Return on Investment (ROI) across a range of advertising strategies.
-        Spanning five years, the store employed a deliberate approach by leveraging
-        seven distinct marketing channels, which included both branded and non-branded
-        search, Facebook, print, out-of-home advertising (OOH), television (TV),
-        and radio.</description>
+      analysis of the performance of a leading S&P 500 company in the electrolyte drinks market in the US. 
+      This study covered a three-year period up to September 30, 2023. Our comprehensive analysis focused 
+      on comparing the latest 52-week period with the same period in 2022, offering valuable insights into 
+      market dynamics and strategic outcomes.</description>
     </item>
 
     <item>
-      <title>Marketing Mix Modeling (MMM) and Match Market Testing (MMT): FY24 Analysis for S&P 500 Cosmetique Company</title>
+      <title>Marketing Mix Modeling (MMM) and Match Market Testing (MMT): FY2024 Analysis for a S&P 500 Cosmetique Company</title>
       <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/MMMEKICOS/</link>
-      <pubDate>Mon, 9 Oct 2023 11:14:48 -0400</pubDate>
+      <pubDate>Sat, 4 Nov 2023 11:13:32 -0400</pubDate>
 
       <guid>https://paulkuhz.github.io/Data-Science-Portfolio/post/MMMEKICOS/</guid>
       <description>This project marked my debut as a data science intern at Ekimetrics in New York. Our team of 
-        three analysts meticulously examined the entire US operations of an S&P 500 cosmetics company. 
-        We focused on the period from January 2023 to December 2023, analyzing data across three key 
-        channels: Brand.com, Retailer.com, and Brick & Mortar (B&M). Throughout the project, we 
-        processed a substantial 10.5 gigabytes of data. For confidentiality reasons, all figures have 
-        been slightly altered.</description>
+    three analysts meticulously examined the entire US operations of an S&P 500 cosmetics company. 
+    We focused on the period from January 2023 to December 2023, analyzing data across three key 
+    channels: Brand.com, Retailer.com, and Brick & Mortar (B&M). Throughout the project, we 
+    processed a substantial 10.5 gigabytes of data.</description>
+    </item>
+
+    <item>
+      <title>Marketing Mix Modeling (MMM): Comparing Bayesian Modeling using PyMC3 vs. Random Forest Modeling with SHAP Evaluation</title>
+      <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/AdvancedMMM/</link>
+      <pubDate>Sat, 4 Nov 2023 11:13:32 -0400</pubDate>
+
+      <guid>https://paulkuhz.github.io/Data-Science-Portfolio/post/AdvancedMMM/</guid>
+      <description>In this article, I explore two different advanced Marketing Mix
+        Modeling (MMM) approaches and compare the results obtained from the Bayesian
+        approach with those from the Random Forest approach. The Random Forest
+        approach, which captures non-linear relationships and interactions more
+        effectively, outperforms the Bayesian approach, showing significant
+        improvements in performance metrics, with a 40% reduction in MAPE and
+        a 17% decrease in NRMSE.</description>
+    </item>
+
+
+    <item>
+      <title>ARIMA, Prophet, XGBoost: Retail Store Sales Forecast</title>
+      <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/Rossmann/</link>
+      <pubDate>Thu, 2 Nov 2023 11:13:32 -0400</pubDate>
+
+      <guid>https://paulkuhz.github.io/Data-Science-Portfolio/post/Rossmann/</guid>
+      <description>In this comprehensive analysis, I delve into the intricate
+        world of sales forecasting for Rossmann, a retail giant operating across
+        seven European countries. Understanding and predicting the company's
+        daily sales is a pivotal challenge, as it involves a myriad of factors,
+        including promotions, competition, holidays, seasonality, and local trends.
+        The Predictive Modeling covers ARIMA, Meta's Prophet, and the open-source
+        software library XGBoost.</description>
+    </item>
+
+
+    <item>
+      <title>Dashboard Visualization with SQL & Tableau: Regional Flu Vaccinations, Emergency Room Visits, and COVID-19 Distribution</title>
+      <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/healthcare/</link>
+      <pubDate>Sat, 21 Oct 2023 11:13:32 -0400</pubDate>
+
+      <guid>https://paulkuhz.github.io/Data-Science-Portfolio/post/healthcare/</guid>
+      <description>For these projects, I managed 39.7 MB of healthcare data in SQL
+        and visualized the results in three Tableau dashboards. In the first dashboard,
+        I presented the annual flu vaccination rates in counties in Massachusetts
+        for 2022. In the second, I displayed an emergency room visits dashboard
+        based on fictional data. In the third, I showcased the geographical
+        distribution of COVID-19 globally as of October 2023.</description>
+    </item>
+
+    <item>
+      <title>Google's Lightweight Marketing Mix Modeling (MMM): Bike Store Advertisement Revenue Analysis</title>
+      <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/MMM/</link>
+      <pubDate>Mon, 9 Oct 2023 14:48:04 -0400</pubDate>
+
+      <guid>https://paulkuhz.github.io/Data-Science-Portfolio/post/MMM/</guid>
+      <description>In this project, I undertook a comprehensive analysis of a bicycle store's Return on
+        Investment (ROI) across a range of advertising strategies. Spanning five years, the store employed
+        a deliberate approach by leveraging seven distinct marketing channels, which included both branded
+        and non-branded search, Facebook, print, out-of-home advertising (OOH), television (TV), and radio.</description>
     </item>
 
     <item>
       <title>HTML, CSS, JavaScript: Developing a Real Time Clock, a Random Password Generator, and a To-Do List</title>
       <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/Clock+PasswordGenerator+ToDoList/</link>
-      <pubDate>Mon, 18 Sep 2023 11:14:48 -0400</pubDate>
+      <pubDate>Mon, 18 Sep 2023 14:48:04 -0400</pubDate>
 
       <guid>https://paulkuhz.github.io/Data-Science-Portfolio/post/Clock+PasswordGenerator+ToDoList/</guid>
       <description>I developed these three applications to strengthen my skillset in web design
-using HyperText Markup Language (HTML), Cascading Style Sheets (CSS), and
-JavaScript (JS). The clock displays the current Pacific Standard Time, while the
-random password generator and the to-do list are integrated into the portfolio
-using <i>CodePen</i>. I'm excited to showcase these projects as they represent my
-commitment to creating practical and engaging web applications. Feel free to
-explore and interact with them!</description>
+      using HyperText Markup Language (HTML), Cascading Style Sheets (CSS), and
+      JavaScript (JS). The clock displays the current Pacific Standard Time, while the
+      random password generator and the to-do list are integrated into the portfolio
+      using <i>CodePen</i>. I'm excited to showcase these projects as they represent my
+      commitment to creating practical and engaging web applications. Feel free to
+      explore and interact with them!</description>
     </item>
 
     <item>
@@ -143,45 +185,6 @@ The basic idea of picture creation is simple: you first give a model some noise,
       <description>This project highlights my involvement in the &amp;ldquo;Twitch Twits&amp;rdquo; program for the Data Science Union student association at UCLA. The dataset was meticulously collected from the Twitch API. By utilizing the &amp;ldquo;rTwitchAPI&amp;rdquo; package in the R programming language, I conducted web scraping to gather data pertaining to one of the most frequently featured games on the Twitch streaming platform: Alien Isolation.
 The dataset comprised 871 distinct streaming titles. Initially, I partitioned the data into separate train and test sets.</description>
     </item>
-
-    <item>
-      <title>Contact</title>
-      <link>https://paulkuhz.github.io/Data-Science-Portfolio/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
-      <guid>https://paulkuhz.github.io/Data-Science-Portfolio/contact/</guid>
-      <description>You can directly message me via the form below. Feel free to reach out if you want to share a project idea, a new method, or an open position. Or if you simply want to say hi. Full Name Your Email Address Your message Send If you would like to follow me on social media, here are links to my profiles. Platform URL LinkedIn https://www.linkedin.com/in/paul-schumacher-ucla/ Twitter https://twitter.com/PaulmachtSchuhe Github hhttps://github.com/PaulKuhz Medium https://medium.</description>
-    </item>
-
-    <item>
-      <title>Resume/CV</title>
-      <link>https://paulkuhz.github.io/Data-Science-Portfolio/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
-      <guid>https://paulkuhz.github.io/Data-Science-Portfolio/about/</guid>
-      <description>I love Data since it enables me to produce objective answers to subjective questions. My fascination for this tool guided me on my journey from quitting medical school in Germany to graduating from one of the best data science programs in the world.
-Along this challenging but exciting path, I first developed a qualitative understanding of the world&amp;rsquo;s issues by studying politics and economics as an undergrad and working as a journalist.</description>
-    </item>
-
-    <item>
-      <title>Contact</title>
-      <link>https://paulkuhz.github.io/Data-Science-Portfolio/teaching/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
-      <guid>https://paulkuhz.github.io/Data-Science-Portfolio/teaching/</guid>
-      <description>You can directly message me via the form below. Feel free to reach out if you want to share a project idea, a new method, or an open position. Or if you simply want to say hi. Full Name Your Email Address Your message Send If you would like to follow me on social media, here are links to my profiles. Platform URL LinkedIn https://www.linkedin.com/in/paul-schumacher-ucla/ Twitter https://twitter.com/PaulmachtSchuhe Github hhttps://github.com/PaulKuhz Medium https://medium.</description>
-    </item>
-
-    <item>
-      <title>Resume/CV</title>
-      <link>https://paulkuhz.github.io/Data-Science-Portfolio/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
-      <guid>https://paulkuhz.github.io/Data-Science-Portfolio/publications/</guid>
-      <description>I love Data since it enables me to produce objective answers to subjective questions. My fascination for this tool guided me on my journey from quitting medical school in Germany to graduating from one of the best data science programs in the world.
-    Along this challenging but exciting path, I first developed a qualitative understanding of the world&amp;rsquo;s issues by studying politics and economics as an undergrad and working as a journalist.</description>
-    </item>
-
 
   </channel>
 </rss>
