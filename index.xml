@@ -9,6 +9,20 @@
     <lastBuildDate>Sun, 23 Jun 2024 11:14:48 -0400</lastBuildDate><atom:link href="https://paulkuhz.github.io/Data-Science-Portfolio/index.xml" rel="self" type="application/rss+xml" />
 
     <item>
+      <title>Bag-of-Words, Bag-of-Words Bigram, Tf-Idf (Term Frequency - Inverse Document Frequency): Classification Algorithm for Email Sorting</title>
+      <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/Email/</link>
+      <pubDate>Sun, July 14, 2024 11:14:48 -0400</pubDate>
+
+      <guid>https://paulkuhz.github.io/Data-Science-Portfolio/post/Email/</guid>
+      <description>Employees often manually sort incoming emails into subfolders for better organization. My challenge 
+      is to develop a machine learning model using a dataset of around 450,000 real emails and their manual subfolder assignments. The goal 
+      is to identify key factors for sorting emails and automate the process, reducing manual effort. To tackle this, I will employ 
+      Bag-of-Words, Bag-of-Words Bigram, and Tf-Idf (Term Frequency - Inverse Document Frequency) for text representation. The 
+      classification algorithms I will use include Gaussian Naive Bayes (NB), Multinomial Naive Bayes (NB), Decision Tree, Support Vector 
+      Machine (SVM), AdaBoost, and Artificial Neural Network (ANN)</description>
+    </item>
+
+    <item>
       <title>CountVectorizer, LightFM, and RelationalAI’s Snowflake Native App: Recommender systems applying WARP and Cosine Similarity</title>
       <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/Netflix/</link>
       <pubDate>Sun, July 14, 2024 11:14:48 -0400</pubDate>
